@@ -181,7 +181,8 @@ Built by Brian as a portfolio project for real estate investment and
 data analytics 
 
 - LinkedIn: https://www.linkedin.com/in/brianztp
-- 🔗 Live demo:https://student-housing-dashboard-htev5kxd4hzyz6jnyjdbuc.streamlit.app  | 💻 Code: https://github.com/immabot-beep/student-housing-dashboard
+- 🔗 Live demo: https://student-housing-dashboard-htev5kxd4hzyz6jnyjdbuc.streamlit.app
+-  | 💻 Code: https://github.com/immabot-beep/student-housing-dashboard
 
 ---
 
