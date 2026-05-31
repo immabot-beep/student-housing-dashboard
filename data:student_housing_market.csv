@@ -1,0 +1,11 @@
+city,state,major_university,student_population,estimated_student_housing_beds,average_monthly_rent,occupancy_rate,annual_rent_growth,median_household_income,average_property_price,distance_to_campus_miles
+Austin,TX,University of Texas at Austin,51000,18000,1450,0.97,0.085,72000,420000,0.8
+Columbus,OH,Ohio State University,61000,22000,1100,0.95,0.062,58000,280000,0.6
+Ann Arbor,MI,University of Michigan,47000,16000,1350,0.96,0.071,68000,390000,0.5
+Gainesville,FL,University of Florida,56000,19500,1050,0.94,0.058,48000,260000,0.7
+Boulder,CO,University of Colorado Boulder,35000,11000,1600,0.98,0.092,72000,550000,1.0
+Tempe,AZ,Arizona State University,77000,26000,1250,0.96,0.078,62000,340000,0.4
+Madison,WI,University of Wisconsin-Madison,47000,15500,1200,0.95,0.065,66000,320000,0.6
+Durham,NC,Duke University,17000,7500,1500,0.97,0.082,74000,480000,0.9
+Champaign,IL,University of Illinois,56000,18500,1000,0.93,0.055,55000,240000,0.5
+Tuscaloosa,AL,University of Alabama,38000,13000,950,0.94,0.048,45000,210000,0.7
